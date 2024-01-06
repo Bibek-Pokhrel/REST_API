@@ -1,0 +1,1 @@
+from .view_user_register import *
